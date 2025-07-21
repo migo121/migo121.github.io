@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6c4b73;
+  background: #8bff93;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2564,7 +2564,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("/D:/background/image1.jpg");
+  background: url("https://i-blog.csdnimg.cn/blog_migrate/cd7234985e63c58daa64aba54d174746.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
